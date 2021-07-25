@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">TestBed</string>
+    <string name="restart">Restart</string>
+    <string name="enter_value">Enter a value</string>
+    <string name="program_stopped">Program stopped</string>
+    <string name="program_finished">Program finished</string>
+    <string name="close">Close TestBed</string>
+    <string name="program_started">Program started</string>
+    <string name="program_restarted">Program restarted</string>
+    <string name="error">ERROR</string>
+    <string name="user_class_name">MyProgram</string>
+    <string name="user_program_not_found">User\'s class is not found!</string>
+    <string name="main_not_found">Method main is not found!</string>
+</resources>
